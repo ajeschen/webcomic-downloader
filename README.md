@@ -64,14 +64,28 @@ The application uses a modular scraper system. To add a new site:
    ```
 
 3. Run the application:
+
+   **Windows:**
+   ```bash
+   run_windows.bat
+   ```
+
+   **Linux:**
+   ```bash
+   ./run_linux.sh
+   ```
+
+   **macOS:**
+   ```bash
+   ./run_mac.sh
+   ```
+
+   **Manual (any platform):**
    ```bash
    python main.py
    ```
 
-   Or on Windows:
-   ```bash
-   run_windows.bat
-   ```
+   > **Note:** The launcher scripts automatically check for dependencies and install them if needed. They also create a virtual environment for isolation.
 
 ## Usage
 
