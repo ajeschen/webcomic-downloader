@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="/images">
     <file>walk.gif</file>
+    <file>app_icon.png</file>
   </qresource>
 </RCC> 
