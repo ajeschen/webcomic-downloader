@@ -2,6 +2,10 @@
 
 A Python-based webcomic downloader with a modern GUI that supports multiple scanlation sites.
 
+![Webcomic Downloader Screenshot](ScreenCap.png)
+
+*The modern, user-friendly interface of the Webcomic Downloader application*
+
 ## Features
 
 - **Multi-Site Support**: Download from various scanlation sites including:
